@@ -60,7 +60,11 @@ body::after{
 
 .logo{
   color:#ff4d88;
-  font-weight:600;
+  font-weight:bold;
+  font-size: 3em;
+  font-family: 'Open Sans'; 
+  text-shadow: 2px 2px 5px rgba(255, 105, 180, 0.7);
+}
 }
 
 .links a{
