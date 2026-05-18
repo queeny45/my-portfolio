@@ -409,3 +409,17 @@ h2{
   box-shadow:
   0 0 20px rgba(255,77,136,0.5);
 }
+.hero h1{
+  font-size:70px;
+  line-height:1.1;
+  margin-bottom:20px;
+
+  color:white;
+}
+
+.hero h1 span{
+  color:#ff4d88;
+
+  text-shadow:
+  0 0 20px rgba(255,77,136,0.5);
+}
