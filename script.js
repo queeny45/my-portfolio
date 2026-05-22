@@ -43,3 +43,10 @@ function scrollToSection(id){
     behavior:"smooth"
   });
 }
+function projectMessage(){
+
+alert(
+"Project details will be added soon 🚀"
+);
+
+}
